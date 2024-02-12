@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/7bdea77d-56b9-44fe-822d-6b85655a5706/resourceGroups/nakatake58_test/providers/Microsoft.Web/sites/nakatakeWebappstest",
+    "appService.deploySubpath": "."
+}
